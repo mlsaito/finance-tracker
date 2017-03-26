@@ -18,6 +18,8 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 # Use devise-bootstrap-views
 gem 'devise-bootstrap-views'
+# Use stock-quote API to get stock prices
+gem 'stock_quote'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
