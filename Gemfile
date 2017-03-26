@@ -12,6 +12,12 @@ gem 'rails', '~> 5.0.2'
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
+# Use devise for authentication
+gem 'devise'
+# Use twitter-bootstrap for styling
+gem 'twitter-bootstrap-rails'
+# Use devise-bootstrap-views
+gem 'devise-bootstrap-views'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
